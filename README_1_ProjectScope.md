@@ -8,7 +8,7 @@ Hospital readmissions for diabetic patients are a significant challenge, driven 
 
 # Dataset: 
 
-Data folder in directory contians all relevant data.
+Data folder in directory contains all relevant data.
 
 https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008
 
